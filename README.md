@@ -1,2 +1,2 @@
-# hello-world
-this is my first repository at codi 
+Hi everyone!!
+Iam a new user in Github.
